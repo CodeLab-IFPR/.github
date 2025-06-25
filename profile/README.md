@@ -7,7 +7,7 @@ O CodeLab-IFPR é uma iniciativa do IFPR – Câmpus Paranavaí que integra ensi
 <p align=center ><b>Coordenado por Frank Willian Cardoso de Oliveira</b></p>
 <p align="center">
   <a href="https://codelabifpr.com.br">
-    <img src="https://img.shields.io/badge/Acessar%20portal%20CodeLab-F97A00?style=for-the-badge&logo=devbox&logoColor=white" alt="Acessar portal CodeLab" />
+    <img src="https://img.shields.io/badge/Acessar%20portal%20CodeLab-4300FF?style=for-the-badge&logo=devbox&logoColor=white" alt="Acessar portal CodeLab" />
   </a>
 </p>
 <h2 align=center size=20> 🚀 Tecnologias </h2>
