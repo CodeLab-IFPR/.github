@@ -1,4 +1,4 @@
-[![Banner Code Lab](./banner.png)](https://codelabifpr.com.br/)
+[![Banner Code Lab](https://raw.githubusercontent.com/CodeLab-IFPR/.github/main/profile/banner.png)](https://codelabifpr.com.br/)
 <h2 align=center> Laboratório de Desenvolvimento Tecnológico </h2>
 <h3 align=center>IFPR Campus Paranavaí </h3>
 
