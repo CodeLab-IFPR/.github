@@ -1,6 +1,5 @@
 [![Banner Code Lab](https://raw.githubusercontent.com/CodeLab-IFPR/.github/main/profile/banner.png)](https://codelabifpr.com.br/)
-<h2 align=center> Laboratório de Desenvolvimento Tecnológico </h2>
-<h3 align=center>IFPR Campus Paranavaí </h3>
+<h2 align=center> Laboratório de Desenvolvimento Tecnológico <br><sub>IFPR Campus Paranavaí</sub></h2>
 
 <p align=center> 
 O CodeLab-IFPR é uma iniciativa do IFPR – Câmpus Paranavaí que integra ensino, pesquisa e extensão, oferecendo soluções tecnológicas com foco nas demandas da comunidade e promovendo a formação prática dos estudantes. 
@@ -17,7 +16,6 @@ O CodeLab-IFPR é uma iniciativa do IFPR – Câmpus Paranavaí que integra ensi
     <img src="https://skillicons.dev/icons?i=phpstorm,vscode,php,laravel,javascript,typescript,react,nodejs,java,spring,mysql"/>
   </a>
 </p>  
-
 
 ---
 
