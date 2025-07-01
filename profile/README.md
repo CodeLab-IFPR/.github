@@ -27,8 +27,3 @@ Veja nossos projetos e organizações atendidas.
 | Portal CodeLab IFPR            | CodeLab            | Aqui haverá uma descrição simples e objetiva do projeto desenvolvido |
 | Sistema web e site institucional | Associação AMAER | Aqui haverá uma descrição simples e objetiva do projeto desenvolvido |
 | Catálogo online e identidade visual | Fábrica Shalon Vasos | Aqui haverá uma descrição e objetiva simples do projeto desenvolvido |
-
-## 👥 Membros
-Equipe multidisciplinar com Product Owners, Scrum Masters e Desenvolvedores, de acordo com as necessidades de cada projeto.
-| 👤 Ali | 👤 Ariel | 👤 Claudir | 👤 Gregory | 👤 Isaque | 👤 Matheus | 👤 Rafael | 👤 Rômulo |
-|-----|-------|---------|---------|--------|---------|--------|--------|
