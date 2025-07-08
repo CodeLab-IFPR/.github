@@ -26,4 +26,4 @@ Veja nossos projetos e organizações atendidas.
 |:------------------------------|:-------------------|:--------------------------------------------|
 | Portal CodeLab IFPR            | CodeLab            | Portal institucional para divulgação do CodeLab para a comunidade e gerenciamento dos membros da equipe. |
 | Sistema web e site institucional | Associação AMAER | Aqui haverá uma descrição simples e objetiva do projeto desenvolvido |
-| Catálogo online e identidade visual | Fábrica Shalon Vasos | Aqui haverá uma descrição e objetiva simples do projeto desenvolvido |
+| Catálogo online | Fábrica Shalon Vasos | Criação da identidade visual e desenvolvimento de um site para apresentar a linha de vasos da fábrica. |
