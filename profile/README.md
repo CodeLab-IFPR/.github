@@ -19,11 +19,17 @@ O CodeLab-IFPR é uma iniciativa do IFPR – Câmpus Paranavaí que integra ensi
 
 ---
 
-## 🗂️ Projetos
-Veja nossos projetos e organizações atendidas.
+## 🗂️ Principais projetos
+Veja alguns dos nossos e organizações atendidas.
 
 | Projeto                        | Organização        | Descrição                                    |
 |:------------------------------|:-------------------|:--------------------------------------------|
 | Portal CodeLab IFPR            | CodeLab            | Portal institucional para divulgação do CodeLab para a comunidade e gerenciamento dos membros da equipe. |
-| Sistema web e site institucional | Associação AMAER | Aqui haverá uma descrição simples e objetiva do projeto desenvolvido |
+| Sistema web e site institucional | Associação AMAER | Sistema web que integra divulgação institucional e gestão de associados. |
 | Catálogo online | Fábrica Shalon Vasos | Criação da identidade visual e desenvolvimento de um site para apresentar a linha de vasos da fábrica. |
+
+<p align="center">
+  <a href="https://codelabifpr.com.br/projetos/cards">
+    <img src="https://img.shields.io/badge/Ver%20todos%20os%20projetos-003CFF?style=for-the-badge&logo=devbox&logoColor=white" alt="Ver todos os projetos" />
+  </a>
+</p>
