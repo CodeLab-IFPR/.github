@@ -20,7 +20,7 @@ O CodeLab-IFPR é uma iniciativa do IFPR – Câmpus Paranavaí que integra ensi
 ---
 
 ## 🗂️ Principais projetos
-Veja alguns dos nossos e organizações atendidas.
+Veja alguns dos nossos projetos e organizações atendidas.
 
 | Projeto                        | Organização        | Descrição                                    |
 |:------------------------------|:-------------------|:--------------------------------------------|
